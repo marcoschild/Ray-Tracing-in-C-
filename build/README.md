@@ -1,0 +1,1 @@
+This directory contains compiled binaries. Run `make` to build the project.
